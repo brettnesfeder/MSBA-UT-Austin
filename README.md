@@ -1,2 +1,3 @@
-# first-repo
-This is my 'first' repository/
+#MSBA - UT Austin 
+These are projects completed throughout the MSBA program.
+
