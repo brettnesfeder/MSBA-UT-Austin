@@ -1,3 +1,3 @@
 # MSBA - UT Austin 
-These are projects completed throughout the MSBA program.
+This consists of various projects and assignments completed throughout the MSBA program.
 
